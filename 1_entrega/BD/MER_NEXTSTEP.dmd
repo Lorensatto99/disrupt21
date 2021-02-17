@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MER_NEXTSTEP" id="74A31290-B59B-6682-14DF-19589B1F1F32" version="3.5">
-<createdBy>guiro</createdBy>
-<createdTime>2020-11-11 01:19:38 UTC</createdTime>
-<ownerDesignName>MER_NEXTSTEP</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>74A31290-B59B-6682-14DF-19589B1F1F32</designId>
-</OSDM_Design>

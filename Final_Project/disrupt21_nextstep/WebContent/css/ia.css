@@ -1,0 +1,47 @@
+section.content{
+	padding: 80px 20px 80px;
+	margin: 0 6%;
+}
+
+h3{
+ font-size:20px;
+ font-weight:500;
+}
+
+.book{
+	text-align:center;
+}
+
+.here-it-is{
+	margin-top: 40px;
+	text-align:center;
+}
+
+.cta{
+	background: green;
+    color: yellow;
+    text-transform: uppercase;
+    padding: 15px;
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    font-weight: 900;
+    letter-spacing: 2px;
+    transition: 0.3s;
+}
+
+.cta:hover{
+	background: #013101;
+	transition: 0.3s;
+}
+footer{
+	position: fixed;
+	margin-left: 0;
+}
+
+@media (max-width:768px){
+	.cta{
+		width: 100%;
+	}
+}

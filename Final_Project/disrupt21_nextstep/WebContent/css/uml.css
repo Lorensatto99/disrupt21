@@ -1,0 +1,23 @@
+section.content{
+	padding: 80px 20px 80px;
+	margin: 0 6%;
+}
+
+.diagrama{
+	text-align:center;
+}
+
+.diagrama h2{
+	font-size: 36px;
+}
+
+.diagrama img{
+	width: 100%;
+}
+
+footer{
+	position: fixed;
+	margin-left: 0;
+}
+
+
