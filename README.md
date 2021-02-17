@@ -1,10 +1,12 @@
 <h1>Atividade Universidade FIAP: </h1>
-<p>Uma site com um represetação simplificada com a linha do tempo do primeiro filme: De Volta Para O Futuro.
-Atividade no PDF "Descrição Atividade" na raiz do projeto</p>
-
+<p>Um site com uma representação simplificada com a linha do tempo do primeiro filme: De Volta Para O Futuro.</p>
+<p>Atividade no PDF "Descrição Atividade" na raiz do projeto.</p>
+<br>
 <img src="/project_img/img1.png">
 <br>
 <img src="/project_img/img2.png">
+<br>
+<h2>Entregas</h2>
 <br>
 <h3>Primaira Entrega (pasta:1_Entrega):</h3>
 <ul>
@@ -22,8 +24,9 @@ Atividade no PDF "Descrição Atividade" na raiz do projeto</p>
     <li>Machine Learning;</li>
 </ul>
 <bt>
-<p>Descrição: Atualização das partes de banco de dados e Diagrama de classes, Machine Learning é o arquivo .ipynb para executa no google drive com sua devida extensão, ou acessar por este link https://colab.research.google.com/drive/1r-Ywxrq6E47mr-6QctjnBKtmPuhyuivH#scrollTo=47b_VOscChy6.</p>
-
+<p>Descrição: Atualização das partes de banco de dados e Diagrama de classes, Machine Learning é o arquivo .ipynb para executa no google drive com sua devida extensão, ou acessar por este link:</p>
+<p>https://colab.research.google.com/drive/1r-Ywxrq6E47mr-6QctjnBKtmPuhyuivH#scrollTo=47b_VOscChy6.</p>
+<br>
 <h2>Como Executa o Projeto ?</h2>
 
 <h3>Requisitos para funcionar:</h3>
@@ -39,7 +42,7 @@ Atividade no PDF "Descrição Atividade" na raiz do projeto</p>
         </ul>
     <li>IDE com compatibilidade com o tomcat Ex:. Eclipse Web Developer kit</li>
 </ul>
-<br>
+<h3>Passos:</h3>
 <ul>
     <li>Configure o tomcat versão 8 na de IDE de preferência;</li>
     <li>importe o disrupt21_nextstep dentro da pasta Final_project;</li>
